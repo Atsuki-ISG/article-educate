@@ -1,8 +1,10 @@
 # OS
 .DS_Store
 
-# 一太郎ソースファイル
+# 大容量データ（git管理外）
 /source/
+data/source/*
+!data/source/inventory.md
 
 # 一太郎バックアップ
 *.$$$
